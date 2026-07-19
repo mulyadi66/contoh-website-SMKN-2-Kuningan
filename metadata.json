@@ -1,0 +1,6 @@
+{
+  "name": "SMK Negeri 2 Kuningan",
+  "description": "Website profil modern, responsif, dan profesional untuk SMK Negeri 2 Kuningan dengan galeri, program keahlian, visi-misi, dan kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
