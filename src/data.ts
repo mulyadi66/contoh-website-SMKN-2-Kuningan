@@ -135,45 +135,45 @@ export const MAJORS: Major[] = [
     ]
   },
   {
-    id: "ph",
-    name: "Perhotelan",
-    shortName: "PH",
-    description: "Menyiapkan tenaga profesional di bidang hospitality, mencakup keterampilan operasional kantor depan (front office), housekeeping, laundry, banquet, serta layanan prima standar bintang lima.",
-    iconName: "Hotel",
+    id: "pplg",
+    name: "Pemograman Perangkat Lunak dan Gim",
+    shortName: "PPLG",
+    description: "Membekali peserta didik dengan keterampilan pengembangan perangkat lunak mulai dari pembuatan aplikasi web, aplikasi mobile, pengelolaan basis data, hingga pembuatan gim interaktif 2D/3D berstandar industri.",
+    iconName: "Code",
     skills: [
-      "Operasional Front Office (Reservasi & Check-in)",
-      "Housekeeping & Room Cleansing",
-      "Laundry & Dry Cleaning Service",
-      "Hospitality & International Grooming Standards",
-      "Layanan Makanan & Minuman di Kamar (Room Service)"
+      "Pemrograman Berorientasi Objek (OOP)",
+      "Pemrograman Web Dinamis (React, Laravel, Node.js)",
+      "Pengembangan Aplikasi Mobile (Android/iOS)",
+      "Perancangan Basis Data & Cloud Computing",
+      "Desain & Pengembangan Game (Unity, Godot)"
     ],
     prospects: [
-      "Front Desk Agent / Receptionist",
-      "Room Attendant / Housekeeper",
-      "Laundry Staff",
-      "Guest Relation Officer (GRO)",
-      "Pekerja Kapal Pesiar (Cruise Ship Staff)"
+      "Software Engineer / Web Developer",
+      "Mobile Application Developer",
+      "Game Developer / Game Designer",
+      "Database Administrator",
+      "IT Consultant / Quality Assurance"
     ]
   },
   {
-    id: "kl",
-    name: "Kuliner",
-    shortName: "KL",
-    description: "Mengajarkan seni tata boga mulai dari persiapan bahan, teknik pengolahan makanan Nusantara dan kontinental, pembuatan pastry/bakery, tata hidang, hingga pengelolaan usaha kuliner.",
-    iconName: "Utensils",
+    id: "tjkt",
+    name: "Teknik Jaringan Komputer dan Telekomunikasi",
+    shortName: "TJKT",
+    description: "Mempelajari rancang bangun jaringan komputer, instalasi jaringan nirkabel (wireless), keamanan jaringan, administrasi server Linux/Windows, serta teknologi cloud networking dan telekomunikasi modern.",
+    iconName: "Network",
     skills: [
-      "Seni Pengolahan Masakan Indonesia & Kontinental",
-      "Pembuatan Roti, Pastri, dan Kue Tradisional",
-      "Tata Hidang Makanan & Minuman (F&B Service)",
-      "Hygiene, Sanitasi, dan Keselamatan Kerja (K3)",
-      "Perhitungan Food Costing & Manajemen Menu"
+      "Instalasi & Konfigurasi Jaringan (Cisco, Mikrotik)",
+      "Administrasi Sistem Jaringan (Linux/Windows Server)",
+      "Cyber Security & Network Defense",
+      "Fiber Optic & Wireless Communication",
+      "Cloud Infrastructure & Virtualization"
     ],
     prospects: [
-      "Asisten Chef (Demi Chef de Partie)",
-      "Baker / Pastry Chef",
-      "F&B Service / Waiter & Waitress",
-      "Pengusaha Katering / Cafe",
-      "Barista Profesional"
+      "Network Engineer / Network Administrator",
+      "System Administrator / DevOps",
+      "Cyber Security Specialist",
+      "Technical Support / IT Support",
+      "Wireless & Fiber Optic Technician"
     ]
   },
   {

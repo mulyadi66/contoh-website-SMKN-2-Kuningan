@@ -32,6 +32,8 @@ import {
   ThumbsUp,
   Check,
   Search,
+  Code,
+  Network,
 } from 'lucide-react';
 
 import {
@@ -60,6 +62,8 @@ const IconComponent = ({ name, className }: { name: string; className?: string }
     case 'Award': return <Award className={className} />;
     case 'Heart': return <Heart className={className} />;
     case 'School': return <School className={className} />;
+    case 'Code': return <Code className={className} />;
+    case 'Network': return <Network className={className} />;
     default: return <Info className={className} />;
   }
 };
@@ -350,7 +354,7 @@ export default function App() {
         {/* Background Image with Rich Dark Gradient Overlay */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/school_campus_hero_1784427902077.jpg"
+            src="/src/assets/images/school_red_campus_hero_1784429551034.jpg"
             alt="SMK Negeri 2 Kuningan Campus"
             className="h-full w-full object-cover opacity-35"
             referrerPolicy="no-referrer"
@@ -453,7 +457,7 @@ export default function App() {
             <div className="lg:col-span-5 relative">
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl bg-slate-100 border border-slate-200">
                 <img
-                  src="/src/assets/images/student_practice_lab_1784427915559.jpg"
+                  src="/src/assets/images/school_red_campus_hero_1784429551034.jpg"
                   alt="Siswa SMK Negeri 2 Kuningan Praktikum"
                   className="w-full aspect-[4/3] object-cover hover:scale-105 transition-transform duration-500"
                   referrerPolicy="no-referrer"
